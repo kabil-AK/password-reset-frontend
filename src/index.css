@@ -1,0 +1,22 @@
+.body{
+  background-color: black;
+  color: yellow;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-radius:3%;
+ padding: 2rem;
+}
+.header{
+  text-align: center;
+
+}
+.box{
+
+  padding: 10%;
+}
+.color{
+ max-width: 10rem;
+ align-content: center;
+ align-items: center;
+}
+
+@tailwind utilities;
